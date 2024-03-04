@@ -65,7 +65,7 @@
   position: absolute;
   top: 12%;
   left: 22%;
-  z-index: 1;
+  z-index: 0;
 }
 
 .model {
@@ -102,8 +102,8 @@
   width: 1000px;
   height: 1000px;
   position: absolute;
-  top: -75%;
-  right: -57%;
+  top: -74%;
+  right: -59%;
   transform: scale(0.15);
   z-index: 4;
 }
